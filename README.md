@@ -1,4 +1,4 @@
-![Jm1008 Status](https://github-readme-stats.vercel.app/api?username=Jm1008&show_icons=true)
+![Jm1008 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jm1008&theme=dark&show_icons=true)
 
 <div style="display inline-block">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=" 100px" width=" 100px"/>
