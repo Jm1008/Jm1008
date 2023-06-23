@@ -1,7 +1,7 @@
 ![Jm1008 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jm1008&theme=midnight-purple&show_icons=true)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jm1008&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jm1008&repo=github-readme-stats&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jm1008&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display inline-block">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=" 100px" width=" 100px"/>
