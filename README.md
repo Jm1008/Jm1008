@@ -1,4 +1,3 @@
-###About
 ![Jm1008 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jm1008&theme=midnight-purple&show_icons=true)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jm1008&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
