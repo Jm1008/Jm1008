@@ -2,7 +2,7 @@
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Jm1008&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<h1>Used Languages</h1>
 <div style="display inline-block">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=" 100px" width=" 100px"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=" 100px" width=" 100px"/>
